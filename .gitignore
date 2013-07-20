@@ -8,3 +8,7 @@
 # Eclipse Files #
 .project
 .settings
+
+# Sublime Files #
+*.sublime-workspace
+*.sublime-project
