@@ -11,3 +11,13 @@ I'm not sure how difficult it's going to be, but I'll figure it out eventually.
 
 ##Help/Contribute
 Any contributors welcome, especially if you have experience developing SmartTV Apps.
+
+##To do:
+If you don't like given-when-then style: deal with it. If you have improvements to make to these sentences, feel free to do so.
+
+App: Twitch.tv SmartTV app
+
+* As a SmartTV user, when I start up the App, then I can see the main twitch.tv/sc2 stream
+* As an anonymous user, given I am in the App, when I click on a browse button, I can see Twitch.tv streams that might interest me
+* As an anonymous user, given I am in the Browse screen, when I use the arrowkeys on my remote, I can select the Twitch.tv stream I'm interested in watching
+* As an anonymous user, given I am in the Browse screen, when I press the ok-button on my remote, the stream I selected starts playing fullscreen
