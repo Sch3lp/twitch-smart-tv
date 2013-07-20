@@ -3,6 +3,10 @@ Contribute
 
 #How to set up your environment
 I use [SublimeText2](http://www.sublimetext.com/2) at the moment, because it's got the best javascript support out there.
+
+* Install the [Package Manager](http://wbond.net/sublime_packages/package_control/installation)
+* Using PackageControl, install the [SublimeTODO plugin](https://github.com/robcowie/SublimeTODO)
+
 TODO: 
 * add info on :
 	* how to build
