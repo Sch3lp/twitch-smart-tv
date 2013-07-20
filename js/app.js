@@ -1,5 +1,5 @@
 var Main = {                     // Main object
-}
+};
 
 var widgetAPI = new Common.API.Widget();        // Creates Common module
 var tvKey = new Common.API.TVKeyValue();
@@ -12,7 +12,7 @@ Main.onLoad = function() {             // called by body's onload event
     /**
      * JavaScript code Here!
      */
-}
+};
 
 Main.keyDown = function() {            // Key handler
     var keyCode = event.keyCode;
@@ -43,5 +43,5 @@ Main.keyDown = function() {            // Key handler
             break;
         case tvKey.KEY_RETURN:
             break;
-    }
-}
+    };
+};
