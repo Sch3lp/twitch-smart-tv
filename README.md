@@ -15,7 +15,7 @@ Any contributors welcome, especially if you have experience developing SmartTV A
 ##To do:
 If you don't like given-when-then style: deal with it. If you have improvements to make to these sentences, feel free to do so.
 
-App: Twitch.tv SmartTV app
+App=Twitch.tv SmartTV app
 
 * As a SmartTV user, when I start up the App, then I can see the main twitch.tv/sc2 stream
 * As an anonymous user, given I am in the App, when I click on a browse button, I can see Twitch.tv streams that might interest me
