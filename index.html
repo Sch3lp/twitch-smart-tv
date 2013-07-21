@@ -1,19 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
+<html lang="en">
 
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Twitch.tv SmartTV App</title>
-        <script type="text/javascript" src="js/lib/require.js"></script>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
 
-        <script type="text/javascript" src="js/main.js"></script>
+  <title>Backbone Boilerplate</title>
 
-        <link rel="stylesheet" type="text/css" href="css/style.css"/>
-    </head>
-    <body onload="Main.onLoad();">
-        <div id="welcome">
-            Welcome to Samsung widget world!
-        </div>
-        <a href="javascript:void(0);" id="dummy-anchor" />
-    </body>
+  <!-- Application styles. -->
+  <link rel="stylesheet" href="/app/styles/index.css">
+</head>
+
+<body>
+  <!-- Application container. -->
+  <main role="main" id="main"></main>
+
+  <!-- Application source. -->
+  <script data-main="/app/main" src="/source.js"></script>
+</body>
+
 </html>

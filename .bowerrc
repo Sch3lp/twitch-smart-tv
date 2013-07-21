@@ -1,0 +1,4 @@
+{
+  "directory": "vendor\\bower",
+  "post_install": "grunt bower"
+}

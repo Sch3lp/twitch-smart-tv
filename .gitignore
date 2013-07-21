@@ -1,14 +1,2 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# Eclipse Files #
-.project
-.settings
-
-# Sublime Files #
-*.sublime-workspace
-*.sublime-project
+/dist/
+/node_modules/

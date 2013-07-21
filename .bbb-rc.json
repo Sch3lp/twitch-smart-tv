@@ -1,0 +1,15 @@
+{
+  "name": "twitch-smart-tv",
+  "testFramework": "jasmine",
+  "moduleStyle": "commonjs",
+  "templateEngine": "underscore",
+  "indent": {
+    "char": "space",
+    "size": 2
+  },
+  "paths": {
+    "base": ".",
+    "tests": "test",
+    "modules": "app/modules"
+  }
+}
