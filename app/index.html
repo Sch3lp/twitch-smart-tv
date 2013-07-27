@@ -39,6 +39,15 @@
     <script src="bower_components/jquery/jquery.js"></script>
 
     <script src="https://ttv-api.s3.amazonaws.com/twitch.min.js"></script>
+    <script>
+        Twitch.init({clientId: '3e4prc5i7sljtycsdsbbxzoqex93yrn', 
+        version: 'v2'},
+        function(error, status) {  
+            if (error) {
+                console.log(error);
+            }
+        });
+    </script>
     <script src="bower_components/angular/angular.js"></script>
 
         <!-- build:js scripts/modules.js -->

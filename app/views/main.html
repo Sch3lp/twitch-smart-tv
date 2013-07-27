@@ -3,6 +3,6 @@
   <p>Here are all the Live Streams:</p>
   <code>{{streams}}</code>
   <ul class="themStreams">
-      <li ng-repeat="stream in streams">{{stream}}</li>
+      <li ng-repeat="stream in streams">{{stream.channel.display_name}}</li>
   </ul>
 </div>
