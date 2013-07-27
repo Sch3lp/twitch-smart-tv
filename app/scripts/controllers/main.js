@@ -1,7 +1,8 @@
 'use strict';
 
 angular.module('twitchSmartTvApp')
-  .controller('MainCtrl', function ($q, $scope, $watch, twitchStreams) {
+  .controller('MainCtrl', function ($scope, resolvedStreamsPromise) {
+    console.log("in MainCtrl");
     // TODO: how do I set my $scope.streams variable to the returned streams array on asynchronous calls? Use AngularJS async ?
-    $scope.streams = twitchStreams;
+    $scope.streams = resolvedStreamsPromise;
   });
