@@ -12,6 +12,8 @@ I'm not sure how difficult it's going to be, but I'll figure it out eventually.
 ## Help/Contribute
 Any contributors welcome, especially if you have experience developing SmartTV Apps.
 
+Visit [this page](CONTRIBUTE).
+
 ## To do:
 ### Application
 If you don't like given-when-then style: deal with it. If you have improvements to make to these sentences, feel free to do so.
