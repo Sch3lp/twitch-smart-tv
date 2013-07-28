@@ -21,10 +21,12 @@ If you don't like given-when-then style: deal with it. If you have improvements 
 App=Twitch.tv SmartTV app
 
 * As a SmartTV user, when I start up the App, then I can see the main twitch.tv/sc2 stream
-* As an anonymous user, given I am in the App, when I click on a browse button, I can see Twitch.tv streams that might interest me
+* As an anonymous user, given I am in the App, when I click on a browse button, I can see an overview of Twitch.tv streams
 * As an anonymous user, given I am in the Browse screen, when I use the arrowkeys on my remote, I can select the Twitch.tv stream I'm interested in watching
 * As an anonymous user, given I am in the Browse screen, when I press the ok-button on my remote, the stream I selected starts playing fullscreen
 
 ### Tech
 * Spike Require.js modular development & deployment on the emulator
-* Figure out how to package without js tests (yeoman? bower?)
+* Spike AngularJS deployment on emulator
+* Can I use the Twitch.TV API to send video-commands like play, pause, etc. ?
+* Figure out how to package without js tests: Solved, using yeoman generated angular webapp which as a bower package command
