@@ -3,7 +3,7 @@
 angular.module('twitchSmartTvApp', ['twitchServices'])
   .config(function ($routeProvider) {
     $routeProvider
-      .when('/streams', {
+      .when('/', {
         templateUrl: 'views/main.html',
         controller: function ($scope, Streams) {
           $scope.streams = Streams.getAll();

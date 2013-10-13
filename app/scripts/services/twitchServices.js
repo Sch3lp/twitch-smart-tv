@@ -2,6 +2,7 @@ angular.module('twitchServices', [])
   .factory('Streams', function ($q, $rootScope){
     var getAll = function() {
         /* Got this by watching this youtube video: http://www.youtube.com/watch?v=P6KITGRQujQ */
+        /* Another super useful link: http://stackoverflow.com/questions/15604196/promises-in-angularjs-and-where-to-use-them */
         var deferred = $q.defer();
         var twitchCallBack = function(error, data) {
            /*
