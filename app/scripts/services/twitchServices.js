@@ -29,7 +29,7 @@ angular.module('twitchServices', [])
           }
         };
         // internally uses $ajax({}) to perform asynchronous calls to the Twitch REST API
-        Twitch.api({method: 'streams', params: { game:'StarCraft II: Heart of the Swarm', limit:5}}, twitchCallBack);
+        Twitch.api({method: 'streams', params: { game:'StarCraft II: Heart of the Swarm', limit:20}}, twitchCallBack);
         return deferred.promise;
     };
     return { getAll: getAll }

@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Samsung\Samsung TV SDK 4\Emulator\Emulator2013_v4\bin\Emulator2.exe"

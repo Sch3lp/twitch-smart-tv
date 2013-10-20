@@ -1,7 +1,9 @@
-<div class="hero-unit">
-  <h1>Twitch Streams</h1>
-  <p>Here are all the Live Streams:</p>
-  <ul>
-      <li ng-repeat="stream in streams">{{stream.channel.display_name}}</li>
-  </ul>
-</div>
+<ul class="thumbnails">
+  <li class="span6" ng-repeat="stream in streams">
+  	<a class="thumbnail" href="{{stream.channel.url}}">
+  		<label class="label label-info">{{stream.channel.name}}</label>
+  		<img src="{{stream.preview.large}}" />
+  		<span><small>{{stream.channel.status}}</small></span>
+  	</a>
+  </li>
+</ul>
