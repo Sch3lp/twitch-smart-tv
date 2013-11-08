@@ -13,6 +13,7 @@ I use [SublimeText2](http://www.sublimetext.com/2) at the moment, because it's g
 * npm install -g grunt
 * npm install -g grunt-cli
 * After cloning this repo, navigate to the directory to which you cloned and type "npm install"
+* bower update
 
 #Running browser that updates on save
 * grunt server
