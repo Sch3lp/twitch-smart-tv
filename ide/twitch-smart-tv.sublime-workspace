@@ -1,0 +1,755 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"$root",
+				"$rootScope"
+			],
+			[
+				"strea",
+				"streamz"
+			],
+			[
+				"$ro",
+				"$rootScope"
+			],
+			[
+				"Twit",
+				"TwitchStreams"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Twi",
+				"TwitchStreams"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"twitchS",
+				"twitchServices"
+			],
+			[
+				"twi",
+				"twitchServices"
+			],
+			[
+				"twit",
+				"twitchModule"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ini",
+				"initRemoteKeys"
+			],
+			[
+				"i",
+				"init"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"bu",
+				"buBackbone.noConflict	Backbone.js utility Backbone.noConflict"
+			],
+			[
+				"bm",
+				"bmurl	Backbone.js model url"
+			],
+			[
+				"b",
+				"bmid	Backbone.js model id"
+			],
+			[
+				"dummy",
+				"dummyAnchor"
+			],
+			[
+				"jas",
+				"jasmine-fixture"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"table-layout"
+			],
+			[
+				"paddin",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "twitch-smart-tv/app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "twitch-smart-tv/app/views/keys.html",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "twitch-smart-tv/app/scripts/directives/RegisterKeys.js",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Windows",
+				"name": "angular.module('RegisterKeysDirective', [])"
+			}
+		},
+		{
+			"file": "twitch-smart-tv/app/index.html",
+			"settings":
+			{
+				"buffer_size": 2956,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "twitch-smart-tv/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 7555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "twitch-smart-tv/package.json",
+			"settings":
+			{
+				"buffer_size": 1001,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"http",
+				"HTTP Requester"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jasmin",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"preview",
+				"Preview"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mard",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown ",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ja",
+				"Set Syntax: Jade"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/workspaces/twitch-smart-tv/bower.json",
+		"/F/[Music]/Albums/Viva Toronto -Steve Lawler/Viva Toronto mixed by Steve Lawler [CD1-Inside].cue",
+		"/F/[Music]/Albums/Viva Toronto -Steve Lawler/Viva Toronto mixed by Steve Lawler [CD2-Outside].cue",
+		"/F/[Music]/Albums/Claude Von Stroke - At The Controls/01_At The Controls mixed by Claude Vonstroke [CD1].cue",
+		"/F/[Music]/Albums/Claude Von Stroke - At The Controls/02_At The Controls mixed by Claude Vonstroke [CD2].cue",
+		"/F/[Music]/Albums/VA-Global_Underground_Presents_Nubreed_007__Mixed_By_Jim_Rivers-2CD-2009-TSP/01-va-nubreed_007__mixed_by_jim_rivers.cue",
+		"/F/[Music]/Albums/VA-Global_Underground_Presents_Nubreed_007__Mixed_By_Jim_Rivers-2CD-2009-TSP/02-va-nubreed_007__mixed_by_jim_rivers.cue",
+		"/F/workspaces/twitch-smart-tv/app/bower_components/angular/angular.js",
+		"/F/workspaces/twitch-smart-tv/app/scripts/controllers/keysController.js",
+		"/F/workspaces/twitch-smart-tv/app/views/main.html",
+		"/F/workspaces/twitch-smart-tv/app/views/keys.html",
+		"/F/workspaces/twitch-smart-tv/app/bower_components/angular-ui-utils/modules/utils.js",
+		"/F/workspaces/twitch-smart-tv/app/bower_components/angular-ui-utils/ui-utils.js",
+		"/F/workspaces/twitch-smart-tv/app/scripts/directives/shortcut.js",
+		"/F/workspaces/twitch-smart-tv/app/scripts/services/samsungServices.js",
+		"/F/workspaces/twitch-smart-tv/app/scripts/services/twitchServices.js",
+		"/F/workspaces/twitch-smart-tv/app/scripts/services/samsungSDK.js",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/apps/tutorial_has/Common/API/TVKeyValue.js",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/apps/tutorial_has/Common/API/Widget.js",
+		"/F/workspaces/twitch-smart-tv/emulator.bat",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/apps/tutorial_has/Javascript/Main.js",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/apps/tutorial_has/index.html",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/apps/tutorial_has/PreviewHASTutorial.js",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/apps/tutorial_has/Javascript/Display.js",
+		"/F/workspaces/twitch-smart-tv/app/scripts/controllers/main.js",
+		"/F/workspaces/twitch-smart-tv/app/config.xml",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/apps/twitch/views/main.html",
+		"/F/workspaces/twitch-smart-tv/app/standalone-test.html",
+		"/F/workspaces/twitch-smart-tv/response.json",
+		"/F/workspaces/twitch-smart-tv/app/msg.js",
+		"/C/Users/Gebruiker/AppData/Local/Temp/WER67F6.tmp.WERInternalMetadata.xml",
+		"/F/workspaces/twitch-smart-tv/app/index.html",
+		"/F/workspaces/twitch-smart-tv/README.md",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/F/workspaces/twitch-smart-tv/CONTRIBUTE.md",
+		"/F/workspaces/tmp/brol.html",
+		"/F/workspaces/twitch-smart-tv/app/scripts/services/TwitchSDK.js",
+		"/F/workspaces/twitch-smart-tv.sublime-settings",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/F/workspaces/twitch-smart-tv.sublime-workspace",
+		"/F/workspaces/twitch-smart-tv.sublime-project",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/SublimeTODO/SublimeTODO.sublime-settings",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/SublimeTODO/README.markdown",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/SublimeTODO/Default.sublime-commands",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/SublimeTODO/Default (Windows).sublime-keymap",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/F/workspaces/twitch-smart-tv/app/bower_components/jquery/jquery-migrate.min.js",
+		"/F/workspaces/twitch-smart-tv/app/services/TwitchSDK.js",
+		"/F/workspaces/twitch-smart-tv/app/scripts/services/services.js",
+		"/F/workspaces/twitch-smart-tv/test/spec/controllers/main.js",
+		"/F/workspaces/twitch-smart-tv/npm-debug.log",
+		"/F/workspaces/twitch-smart-tv/app/app.js",
+		"/F/workspaces/twitch-smart-tv/test/jasmine/test-runner.js",
+		"/F/workspaces/twitch-smart-tv/test/jasmine/spec/boilerplate/router.spec.js",
+		"/F/workspaces/twitch-smart-tv/test/jasmine/spec/example.spec.js",
+		"/F/workspaces/twitch-smart-tv/test/jasmine/spec/mainwindow.spec.js",
+		"/F/workspaces/twitch-smart-tv/app/modules/MainWindow.js",
+		"/F/workspaces/twitch-smart-tv/app/router.js",
+		"/F/workspaces/tmp/mainwindow.js",
+		"/F/workspaces/twitch-smart-tv/Gruntfile.js",
+		"/F/workspaces/twitch-smart-tv/test/jasmine/index.html",
+		"/F/workspaces/twitch-smart-tv/index.html",
+		"/F/workspaces/twitch-smart-tv/test/runner.htm",
+		"/F/workspaces/twitch-smart-tv/test/spec/mainwindowSpec.js",
+		"/C/Program Files (x86)/Git/etc/gitconfig",
+		"/C/Program Files (x86)/Git/etc/profile",
+		"/C/Users/Gebruiker/.bashrc",
+		"/C/Users/Gebruiker/.gitconfig",
+		"/F/workspaces/twitch-smart-tv/js/mainwindow.js",
+		"/F/workspaces/twitch-smart-tv/.gitignore",
+		"/F/workspaces/twitch-smart-tv/test/spec/mainwindow.js",
+		"/F/workspaces/twitch-smart-tv/test/runner.html",
+		"/F/workspaces/twitch-smart-tv/test/SpecRunner.html",
+		"/F/workspaces/twitch-smart-tv/demo/amd.html",
+		"/F/workspaces/twitch-smart-tv/app/mainwindow.js",
+		"/F/workspaces/twitch-smart-tv/js/main.js",
+		"/F/workspaces/twitch-smart-tv/app/main.js",
+		"/F/workspaces/twitch-smart-tv/js/app.js",
+		"/F/workspaces/twitch-smart-tv/lib/skeleton.js",
+		"/F/workspaces/twitch-smart-tv/config.xml",
+		"/C/Program Files (x86)/Samsung/Samsung TV SDK 4/Emulator/Emulator2013_v4/commonlib/Common/API/CImageViewer.js.smk",
+		"/F/workspaces/twitch-smart-tv/javascript/Main.js",
+		"/F/workspaces/twitch-smart-tv/css/style.css",
+		"/F/workspaces/nodeventualizr/public/css/app.css",
+		"/F/workspaces/nodeventualizr/views/partials/readPost.jade",
+		"/C/Users/Gebruiker/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/H/Dropbox/sublime2-license.txt",
+		"/F/ducking-octo-archer/pom.xml",
+		"/F/ducking-octo-archer/.gitignore",
+		"/H/Downloads/BioShock_Infinite-FLT/fairlight.nfo",
+		"/F/ducking-octo-archer/presentation/src/main/webapp/WEB-INF/web.xml",
+		"/F/ducking-octo-archer/infrastructure/src/main/java/META-INF/MANIFEST.MF"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1.0.8",
+			"\"~1.0.7",
+			"[/b]",
+			"[b]",
+			"input",
+			"scope",
+			"event",
+			"alert",
+			"tvKey",
+			"widgetAPI",
+			"\n          ",
+			"streamz",
+			"successCb",
+			"data",
+			"deferred",
+			"twitchServices",
+			"successCb",
+			"data",
+			"deferred",
+			"myCallback",
+			"\");\n",
+			"twitchStreams",
+			"myCallback",
+			"twitchService",
+			"resolvedStreamsPromise",
+			"twitchStreams",
+			"todo",
+			" ",
+			"channels",
+			"channel",
+			"stream_key",
+			"channels",
+			"        \n",
+			"mainWindow",
+			"                \n",
+			"jasmine",
+			">\n",
+			"\n                ",
+			"MainWindow",
+			"tvkeyvalue",
+			"PackageManager",
+			"\n*",
+			" ",
+			"image",
+			"Resource",
+			"picasa",
+			"		\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"twitchService"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "twitch-smart-tv/app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "twitch-smart-tv/app/views/keys.html",
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "twitch-smart-tv/app/scripts/directives/RegisterKeys.js",
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"auto_name": "angular.module('RegisterKeysDirective', [])",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "twitch-smart-tv/app/index.html",
+					"settings":
+					{
+						"buffer_size": 2956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1125,
+								1125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 97.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "twitch-smart-tv/Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 7555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "twitch-smart-tv/package.json",
+					"settings":
+					{
+						"buffer_size": 1001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								782,
+								782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sbt":
+	{
+		"height": 0.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"key",
+				"app/views/keys.html"
+			],
+			[
+				"main",
+				"app/views/main.html"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"test-runn",
+				"test/jasmine/test-runner.js"
+			],
+			[
+				"index.html",
+				"test/jasmine/index.html"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				".jade",
+				"views/partials/index.jade"
+			],
+			[
+				"app.cs",
+				"public/css/app.css"
+			],
+			[
+				"la",
+				"views/layout.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true
+}
