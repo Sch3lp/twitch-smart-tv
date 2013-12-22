@@ -11,7 +11,9 @@ I use [SublimeText2](http://www.sublimetext.com/2) at the moment, because it's g
 * npm install -g yeoman
 * npm install -g bower
 * npm install -g grunt
+* npm install -g grunt-cli
 * After cloning this repo, navigate to the directory to which you cloned and type "npm install"
+* bower update
 
 #Running browser that updates on save
 * grunt server
@@ -19,10 +21,8 @@ I use [SublimeText2](http://www.sublimetext.com/2) at the moment, because it's g
 #Running Tests
 * grunt test
 
-TODO: 
-* add info on :
-	* how to stub out the samsung ApplicationManager api etc. (add separate section on testing)
-
+#Troubleshooting
+If your grunt commands are not working, make sure you have installed grunt-cli, and make sure your path is set correctly to include the npm global modules (usually in C:/Users/<username>/AppData/Roaming/npm)
 
 #Twitch.tv API
 Twitch.tv has an elaborate API, which you can read all about over at the [Twitch-API project on GitHub](https://github.com/justintv/Twitch-API/blob/master/README.md)
