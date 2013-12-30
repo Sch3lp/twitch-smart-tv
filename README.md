@@ -19,4 +19,4 @@ Any contributors welcome, especially if you have experience developing SmartTV A
 Visit [this page](CONTRIBUTE.md).
 
 ## To do
-Have a look at [the Trello board](https://trello.com/b/EqFt55tS/twitch-tv-smarttv-app)
+Have a look at [the issues](https://github.com/Sch3lp/twitch-smart-tv/issues)
