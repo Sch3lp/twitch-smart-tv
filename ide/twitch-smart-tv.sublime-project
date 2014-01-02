@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "twitch-smart-tv",
+			"path": "..",
 			"folder_exclude_patterns": ["node_modules", "dist", "bower*"]
 		}
 	]
