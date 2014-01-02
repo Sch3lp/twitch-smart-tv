@@ -1,7 +1,7 @@
 'use strict';
 
-angular.module('twitchSmartTvApp', ['twitchServices', 'samsungServices'])
-  .config(function ($routeProvider) {
+angular.module('twitchSmartTvApp', ['twitchServices', 'samsungServices', 'ngRoute'])
+  .config(['$routeProvider', function ($routeProvider) {
     $routeProvider
       .when('/keys', {
         templateUrl: 'views/keys.html',
@@ -27,4 +27,4 @@ angular.module('twitchSmartTvApp', ['twitchServices', 'samsungServices'])
       .otherwise({
         redirectTo: '/'
       });
-  });
+  }]);
