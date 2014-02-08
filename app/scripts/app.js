@@ -21,7 +21,9 @@ angular.module('twitchSmartTvApp', ['twitchServices', 'samsungServices', 'ngRout
       .when('/', {
         templateUrl: 'views/main.html',
         controller: function ($scope, Streams) {
-          $scope.streams = Streams.getAll();
+          Streams.getAll().then(function(allStreams) {
+            $scope.streams = allStreams;
+          })
         }
       })
       .otherwise({
